@@ -207,7 +207,7 @@
 
 <br>
 
-<div class="container p-3 my-3 bg-dark text-white"></div>
+<div class="container-fluid p-3 my-3 bg-dark text-white">
 
     <div id="demo" class="carousel slide" data-ride="carousel">
 
