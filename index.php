@@ -38,6 +38,11 @@
              text-align:center;
              margin: auto;
              margin-top: 200px;
+    }
+    #onfoot {
+                background-color:#c3d5d5; 
+
+            }
         
 
   </style>
@@ -296,8 +301,7 @@
 
 
 
-<footer class="text-muted">
-      <div class="container">
+<div id = "onfoot" class="container" >
        <h5>Contact Group Us</h5>
 
        <p>
@@ -307,20 +311,22 @@
            
         </p>
 
+</div>
+
+<script>
+    $(document).ready(function(){
+      $('[data-toggle="tooltip"]').tooltip();   
+    });
+</script>
+    
+  </div>
+<footer class="text-muted">
         <p class="float-right">
           <a href="#"><img src="up.png" alt="ball" width="50" height="50"></a>
         </p>
  
         
-    </div>
 
-    <script>
-        $(document).ready(function(){
-          $('[data-toggle="tooltip"]').tooltip();   
-        });
-    </script>
-        
-      </div>
     </footer>
 
 </body>
