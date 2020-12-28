@@ -40,7 +40,7 @@
 <div class="container">
   <h2>Card Image</h2>
   <p>Image at the top (card-img-top):</p>
-  <div class="card" style="width:400px">
+  <div class="card" style="width:300px">
     <img class="card-img-top" src="p11.jpg" alt="Card image" style="width:100%">
     <div class="card-body">
       <h4 class="card-title">John Doe</h4>
@@ -48,6 +48,18 @@
       <a href="#" class="btn btn-primary">See Profile</a>
     </div>
   </div>
+  <div class="container">
+  <h2>Card Image</h2>
+  <p>Image at the top (card-img-top):</p>
+  <div class="card" style="width:300px">
+    <img class="card-img-top" src="p11.jpg" alt="Card image" style="width:100%">
+    <div class="card-body">
+      <h4 class="card-title">John Doe</h4>
+      <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
+      <a href="#" class="btn btn-primary">See Profile</a>
+    </div>
+  </div>
+  <br>
   <br>
 
 <div class="container">
@@ -58,6 +70,7 @@
             <li data-target="#demo" data-slide-to="0" class="active"></li>
             <li data-target="#demo" data-slide-to="1"></li>
             <li data-target="#demo" data-slide-to="2"></li>
+            <li data-target="#demo" data-slide-to="3"></li>
         </ul>
         <div class="carousel-inner">
             <div class="carousel-item active">
