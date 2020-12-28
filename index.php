@@ -14,8 +14,8 @@
     <style>
   /* Make the image fully responsive */
   .carousel-inner img {
-    width: 30%;
-    height: 30%;
+    width: 50%;
+    height: 50%;
   }
     body{
            text-align: center ;
@@ -169,7 +169,7 @@
 <script>
 $(document).ready(function(){
   // Activate Carousel with a specified interval
-  $("#myCarousel").carousel({interval: 2000});
+  $("#myCarousel").carousel({interval: 10});
         
   // Enable Carousel Indicators
   $(".item1").click(function(){
