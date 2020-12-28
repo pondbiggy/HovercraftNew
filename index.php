@@ -300,7 +300,7 @@ $(document).ready(function(){
         </div>   
 </div>  
         
-<div class="container" style="margin-top:30px">
+<div class="container-fluid" style="margin-top:30px">
   <div class="row">
     <div class="col-sm-4">
       
