@@ -68,7 +68,7 @@
         <a class="nav-link" href="#">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Contact</a>
+        <a class="nav-link" href="#contact">Contact</a>
       </li>
       <!-- Dropdown -->
       <li class="nav-item dropdown">
@@ -270,6 +270,28 @@ $(document).ready(function(){
   });
 });
 </script>
+
+<!-- Contact -->
+<div id="contact" class="Section Contact lazy-bg">
+        <div class="Contact-Content" id="contact-section">
+            <div class="Head-Row">
+                <div class="Head-Column">
+                    <div class="Heading">
+                        <h1><span class="Markdown">Contact</span></h1>
+                    </div>
+                   
+                </div>
+            </div>
+
+            <div class="Contact-Row">
+                <div class="Contact-Column-Social">
+                    <iframe title="Facebook Fanpage" class="lazy" data-src="https://www.facebook.com/ScienceSilpakornUniversity/"
+                        width="340" height="600" style="border:none;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                </div>
+            </div>
+        </div>   
+</div>  
 
 <footer class="text-muted">
       <div class="container">
