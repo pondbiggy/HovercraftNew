@@ -301,15 +301,8 @@
 
 
 
-<!--<div id = "onfoot" class="container" >
-       
-
-</div> 
-
-
-    
-  </div> -->
-<footer class="text-muted">
+<div id = "onfoot" class="container--fluid" >
+      
   <h5>Contact Group Us</h5>
 
   <p>
@@ -324,13 +317,13 @@
     </p>
  
         
-
-</footer>
+</div>
 <script>
     $(document).ready(function(){
       $('[data-toggle="tooltip"]').tooltip();   
     });
   </script>
+
 </body>
 
 </html>
