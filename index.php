@@ -167,36 +167,36 @@
 
 <div class="card-deck">
   <div class="card">
-    <img class="card-img-top" src="p11.jpg" alt="Card image cap">
+    <img class="card-img-top" src="https://img.utdstc.com/icon/c6f/36f/c6f36ff0735c528043bc1a3264f6ff828b2ed29f69e25ccdd78b8006133bcc7f:200" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Jiraphat Thongyoo</h5>
+      <h5 class="card-title">python</h5>
       <p class="card-text">620710040<br>Data Science<br>SU76 SC48 DS2</p>
       
     </div>
   </div>
 
   <div class="card">
-    <img class="card-img-top" src="p22.jpg" alt="Card image cap">
+    <img class="card-img-top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Phanthipha Makchiao</h5>
+      <h5 class="card-title">R</h5>
       <p class="card-text">620710161<br>Data Science<br>SU76 SC48 DS2</p>
       
     </div>
   </div>
 
   <div class="card">
-    <img class="card-img-top" src="p33.jpg" alt="Card image cap">
+    <img class="card-img-top" src="https://lo.unisa.edu.au/pluginfile.php/2748205/mod_page/content/15/SQL_Logo.png" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Apatsara Piromto</h5>
+      <h5 class="card-title">SQL</h5>
       <p class="card-text">620710162<br>Data Science<br>SU76 SC48 DS2</p>
       
     </div>
   </div>
 
   <div class="card">
-    <img class="card-img-top" src="p44.jpg" alt="Card image cap">
+    <img class="card-img-top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Worapon Boontawee</h5>
+      <h5 class="card-title">HTML</h5>
       <p class="card-text">620710742<br>Data Science<br>SU76 SC48 DS2</p>
       
     </div>
@@ -282,21 +282,10 @@ $(document).ready(function(){
             <div class="Head-Row">
                 <div class="Head-Column">
                 <div class="Heading">
-                        <h2><span class="Markdown">Contact</span></h2>
+                        <h2><span class="Markdown"></span></h2>
                     </div>
                 </div>
             </div>
-
-
-
-
-            
-
-
-
-
-
-
         </div>   
 </div>  
         
@@ -335,8 +324,8 @@ $(document).ready(function(){
 
        <p>
             <span><a data-toggle="tooltip" title="Follow on CPSU_Group" href="https://www.facebook.com/groups/CPSUTH"><i class="fab fa-facebook-square" style="color:rgb(255, 255, 255);font-size:72px"></i></a></span> 
-            <span><a data-toggle="tooltip" title="Follow on DSSCSU_Group" href="https://www.facebook.com/groups/DSSCSU"><i class="fab fa-facebook-square" style="color:rgb(153, 204, 255);font-size:72px"></i></a></span> 
-            <span><a data-toggle="tooltip" title="Follow on WebTechnology_Group" href="https://www.facebook.com/groups/2097980677004926"><i class="fab fa-facebook-square" style="color:rgb(204, 230, 255);font-size:72px"></i></a></span> 
+            <span><a data-toggle="tooltip" title="Follow on DSSCSU_Group" href="https://www.facebook.com/groups/DSSCSU"><i class="fab fa-facebook-square" style="color:rgb(204, 230, 255);font-size:72px"></i></a></span> 
+            <span><a data-toggle="tooltip" title="Follow on WebTechnology_Group" href="https://www.facebook.com/groups/2097980677004926"><i class="fab fa-facebook-square" style="color:rgb(153, 204, 255);font-size:72px"></i></a></span> 
            
         </p>
 
