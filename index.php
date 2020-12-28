@@ -79,10 +79,10 @@
         Members
       </a>
       <div class="dropdown-menu">
-        <a class="dropdown-item" href="#">Ball</a>
+        <a class="dropdown-item" href="b.html">Ball</a>
         <a class="dropdown-item" href="b.html">Bee</a>
         <a class="dropdown-item" href="jib.html">Jib</a>
-        <a class="dropdown-item" href="phaii.htmal">Phai</a>
+        <a class="dropdown-item" href="phaii.html">Phai</a>
       </div>
     </li>
     </ul>
