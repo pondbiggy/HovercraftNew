@@ -289,7 +289,11 @@ $(document).ready(function(){
                 </div>
             </div>
 
-            <
+            <div class="Contact-Row">
+                <div class="Contact-Column-Social">
+                    <iframe title="Facebook Fanpage" class="lazy" src="www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/ScienceSilpakornUniversity/" width="340" height="600" colorscheme="dark" show_faces="true" header="true"&amp;stream="false" show_border=true" scrolling="no" frameborder="0" style="border:none"; overflow:hidden; width:500px; height:215px; allowtransparency="true"></iframe>
+                </div>
+            </div>
         </div>   
 </div>  
         <p>
