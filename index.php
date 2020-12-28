@@ -291,7 +291,7 @@ $(document).ready(function(){
 
             <div class="Contact-Row">
                 <div class="Contact-Column-Social">
-                    <iframe title="Facebook Fanpage" class="lazy" src="www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/ScienceSilpakornUniversity/" width="340" height="600" colorscheme="dark" show_faces="true" header="true"&amp;stream="false" show_border=true" scrolling="no" frameborder="0" style="border:none"; overflow:hidden; width:500px; height:215px; allowtransparency="true"></iframe>
+                <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FScienceSilpakornUniversity&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
                 </div>
             </div>
         </div>   
