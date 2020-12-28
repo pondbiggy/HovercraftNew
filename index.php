@@ -269,7 +269,7 @@ $(document).ready(function(){
 <footer class="text-muted">
       <div class="container">
         <p class="float-right">
-          <a href="#"><i class="material-icons" style="font-size:36px">keyboard_capslock</i></a>
+          <a href="#"><i class="material-icons" style="font-size:36px"></i></a>
         </p>
         
       </div>
