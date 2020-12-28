@@ -206,78 +206,44 @@
 </div>   
 
 
-  
-<div class="container mt-3">
-  <h2>Carousel Options</h2>
- 
-  <div id="myCarousel" class="carousel slide">
-  
-  <!-- Indicators -->
-  <ul class="carousel-indicators">
-    <li class="item1 active"></li>
-    <li class="item2"></li>
-    <li class="item3"></li>
-    <li class="item4"></li>
-  </ul>
-  
-  <!-- The slideshow -->
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="p11.jpg" alt="ball" width="1100" height="500">
-    </div>
-    <div class="carousel-item">
-      <img src="p22.jpg" alt="bee" width="1100" height="500">
-    </div>
-    <div class="carousel-item">
-      <img src="p33.jpg" alt="jib" width="1100" height="500">
-    </div>
-    <div class="carousel-item">
-      <img src="https://www.facebook.com/100002439788465/videos/3627996367291654" alt="phai" width="1100" height="500">
-    </div>
-    
+<div id="demo" class="carousel slide" data-ride="carousel">
+
+<!-- Indicators -->
+<ul class="carousel-indicators">
+  <li data-target="#demo" data-slide-to="0" class="active"></li>
+  <li data-target="#demo" data-slide-to="1"></li>
+  <li data-target="#demo" data-slide-to="2"></li>
+  <li data-target="#demo" data-slide-to="3"></li>
+</ul>
+
+<!-- The slideshow -->
+<div class="carousel-inner">
+  <div class="carousel-item active">
+    <img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t1.0-9/118647529_10223352539826610_8957336540833253612_o.jpg?_nc_cat=100&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeHsWmJYVRq95HmdmQzJkWIwwCafvoyaFnPAJp--jJoWc6WZoUJ7EeeCUvcAjHXtgIc-9BtMjbkJRn5yRaHt47IW&_nc_ohc=OAGkHbPLt2YAX-bRWzG&_nc_ht=scontent.fkdt1-1.fna&oh=f802e06d323dae0b9d21e8d1ac410091&oe=600EA510" alt="ball" width="600" height="500">
   </div>
-  
-  <!-- Left and right controls -->
-  <a class="carousel-control-prev" href="#myCarousel">
-    <span class="carousel-control-prev-icon"></span>
-  </a>
-  <a class="carousel-control-next" href="#myCarousel">
-    <span class="carousel-control-next-icon"></span>
-  </a>
-</div>
+  <div class="carousel-item">
+    <img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t1.0-9/118120364_10223291326736321_4897322886497163483_o.jpg?_nc_cat=106&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeGCXsVQbNaT2UKPaDKtReix8fR7RRxkRpbx9HtFHGRGllqrqeXhqT9nWQTO3FyQ1-iGbeAYIlT0r3K7JvaF0sjq&_nc_ohc=mx8n4xjgwK0AX8AyWr7&_nc_ht=scontent.fkdt1-1.fna&oh=5b38d5a0483b28ceee88f9dd95bf3654&oe=600EBD93" alt="bee" width="600" height="500">
+  </div>
+  <div class="carousel-item">
+    <img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t1.0-9/117364803_10223173081740270_7997414397757421007_o.jpg?_nc_cat=100&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeF7oSg4zLZ654eUz568H_ulfBB_Zmq56vZ8EH9marnq9hp5QAqFU2ylcAqNwJku2g3naEy2R1-fWCN5CY72X8SU&_nc_ohc=DdVOMfcintsAX8YawJv&_nc_ht=scontent.fkdt1-1.fna&oh=04f548d5f9a7d87a1a2211b208983d38&oe=600FFB1E" alt="jib" width="600" height="500">
+  </div>
+  <div class="carousel-item">
+    <img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t1.0-9/116693655_10223106330631534_5701466154350178714_o.jpg?_nc_cat=106&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeF8k55e25MyUQ2Mhh_r-ipuAlBkUhJQVd0CUGRSElBV3ZY4xl3qrxzS58VxMMCNqLykQx67zAN1tkZdfcO7A4L_&_nc_ohc=r0mM1t2jTFsAX-4odlw&_nc_ht=scontent.fkdt1-1.fna&oh=38647bedd59bac7a09134f400b1dc632&oe=600DEE68" alt="phai" width="600" height="500">
+  </div>
 </div>
 
-<script>
-$(document).ready(function(){
-  // Activate Carousel with a specified interval
-  $("#myCarousel").carousel({interval: 30});
-        
-  // Enable Carousel Indicators
-  $(".item1").click(function(){
-    $("#myCarousel").carousel(0);
-  });
-  $(".item2").click(function(){
-    $("#myCarousel").carousel(1);
-  });
-  $(".item3").click(function(){
-    $("#myCarousel").carousel(2);
-  });
-  $(".item4").click(function(){
-    $("#myCarousel").carousel(3);
-  });
-    
-  // Enable Carousel Controls
-  $(".carousel-control-prev").click(function(){
-    $("#myCarousel").carousel("prev");
-  });
-  $(".carousel-control-next").click(function(){
-    $("#myCarousel").carousel("next");
-  });
-});
-</script>
+<!-- Left and right controls -->
+<a class="carousel-control-prev" href="#demo" data-slide="prev">
+  <span class="carousel-control-prev-icon"></span>
+</a>
+<a class="carousel-control-next" href="#demo" data-slide="next">
+  <span class="carousel-control-next-icon"></span>
+</a>
+</div>
 
-       <!-- Contact -->
-       <div id="contact" class="Section Contact lazy-bg">
+
+<!-- Contact -->
+<div id="contact" class="Section Contact lazy-bg">
         <div class="Contact-Content" id="contact-section">
             <div class="Head-Row">
                 <div class="Head-Column">
