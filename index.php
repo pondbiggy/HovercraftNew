@@ -188,7 +188,7 @@
     <img class="card-img-top" src="R3.png" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">SQL</h5>
-      <p class="card-text">DATABASE SYSTEMS <br>DATA SCIENCE TOOLBOX<br><br></p>
+      <p class="card-text">DATABASE SYSTEMS <br>DATA SCIENCE TOOLBOX<br><br><br></p>
       
     </div>
   </div>
@@ -197,7 +197,7 @@
     <img class="card-img-top" src="R4.png" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">HTML CSS JS BOOTSTRAP</h5>
-      <p class="card-text">WEB TECHNOLOGY<br><br><br></p>
+      <p class="card-text">WEB TECHNOLOGY<br><br><br><br></p>
       
     </div>
   </div>
@@ -320,7 +320,7 @@ $(document).ready(function(){
 
 <footer class="text-muted">
       <div class="container">
-       <h5>Contact Us</h5>
+       <h5>Contact Group Us</h5>
 
        <p>
             <span><a data-toggle="tooltip" title="Follow on CPSU_Group" href="https://www.facebook.com/groups/CPSUTH"><i class="fab fa-facebook-square" style="color:rgb(255, 255, 255);font-size:72px"></i></a></span> 
