@@ -170,7 +170,7 @@
     <img class="card-img-top" src="https://img.utdstc.com/icon/c6f/36f/c6f36ff0735c528043bc1a3264f6ff828b2ed29f69e25ccdd78b8006133bcc7f:200" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">python</h5>
-      <p class="card-text">620710040<br>Data Science<br>SU76 SC48 DS2</p>
+      <p class="card-text">COMPUTER PROGRAMMING FOR DATA SCIENTISTS<br>DATA STRUCTURE AND ALGORITHM<br>DATA SCIENCE TOOLBOX<br>	INTRODUCTION TO BIG DATA PROCESSING</p>
       
     </div>
   </div>
@@ -179,16 +179,16 @@
     <img class="card-img-top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">R</h5>
-      <p class="card-text">620710161<br>Data Science<br>SU76 SC48 DS2</p>
+      <p class="card-text">STATISTICS FOR DATA SCIENCE<br>FOUNDATION OF DATA SCIENCE<br>DATA SCIENCE TOOLBOX<br>GETTING AND CLEANING DATA</p>
       
     </div>
   </div>
 
   <div class="card">
-    <img class="card-img-top" src="https://lo.unisa.edu.au/pluginfile.php/2748205/mod_page/content/15/SQL_Logo.png" alt="Card image cap">
+    <img class="card-img-top" src="https://www.freeiconspng.com/img/11368" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">SQL</h5>
-      <p class="card-text">620710162<br>Data Science<br>SU76 SC48 DS2</p>
+      <p class="card-text">DATABASE SYSTEMS FOR DATA SCIENCE<br>DATA SCIENCE TOOLBOX</p>
       
     </div>
   </div>
@@ -197,7 +197,7 @@
     <img class="card-img-top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">HTML</h5>
-      <p class="card-text">620710742<br>Data Science<br>SU76 SC48 DS2</p>
+      <p class="card-text">WEB TECHNOLOGY</p>
       
     </div>
   </div>
