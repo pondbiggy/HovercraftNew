@@ -35,7 +35,7 @@
     <img src="ho.png" alt="logo" style="width:40px;">
   </a>
   <!-- Brand -->
-  <a class="navbar-brand" href="#">Hovercraft</a>
+  <a class="navbar-brand" href="#"><strong>Hovercraft</strong></a>
 
   <!-- Toggler/collapsibe Button -->
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -106,54 +106,75 @@
   <br>
   <br>
 
-<div class="container">
-  <h1>My First Bootstrap Page</h1>
 
-    <div id="demo" class="carousel slide" data-ride="carousel">
-        <ul class="carousel-indicators">
-            <li data-target="#demo" data-slide-to="0" class="active"></li>
-            <li data-target="#demo" data-slide-to="1"></li>
-            <li data-target="#demo" data-slide-to="2"></li>
-            <li data-target="#demo" data-slide-to="3"></li>
-        </ul>
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-            <img src="p11.jpg" alt="Ball" width="1100" height="500">
-            <div class="carousel-caption">
-                <h3>Ball</h3>
-                <p>We had such a great time in LA!</p>
-            </div>   
-        </div>
-        <div class="carousel-item">
-            <img src="p22.jpg" alt="Bee" width="1100" height="500">
-            <div class="carousel-caption">
-                <h3>Bee</h3>
-                <p>Thank you, Chicago!</p>
-            </div>   
-        </div>
-        <div class="carousel-item">
-            <img src="p33.jpg" alt="Jib" width="1100" height="500">
-            <div class="carousel-caption">
-                <h3>Jib</h3>
-                <p>We love the Big Apple!</p>
-            </div>   
-        </div>
-        <div class="carousel-item">
-            <img src="p44.jpg" alt="Phat" width="1100" height="500">
-            <div class="carousel-caption">
-                <h3>Phai</h3>
-                <p>We love the Big Apple!</p>
-            </div>   
-        </div>
+  
+<div class="container mt-3">
+  <h2>Carousel Options</h2>
+ 
+  <div id="myCarousel" class="carousel slide">
+  
+  <!-- Indicators -->
+  <ul class="carousel-indicators">
+    <li class="item1 active"></li>
+    <li class="item2"></li>
+    <li class="item3"></li>
+    <li class="item4"></li>
+  </ul>
+  
+  <!-- The slideshow -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="p11.jpg" alt="Los Angeles" width="1100" height="500">
     </div>
-    <a class="carousel-control-prev" href="#demo" data-slide="prev">
-        <span class="carousel-control-prev-icon"></span>
-    </a>
-    <a class="carousel-control-next" href="#demo" data-slide="next">
-        <span class="carousel-control-next-icon"></span>
-    </a>
+    <div class="carousel-item">
+      <img src="p22.jpg" alt="Chicago" width="1100" height="500">
     </div>
+    <div class="carousel-item">
+      <img src="p33.jpg" alt="New York" width="1100" height="500">
+    </div>
+    <img src="p44.jpg" alt="New York" width="1100" height="500">
+    </div>
+  </div>
+  
+  <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#myCarousel">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#myCarousel">
+    <span class="carousel-control-next-icon"></span>
+  </a>
 </div>
+</div>
+
+<script>
+$(document).ready(function(){
+  // Activate Carousel with a specified interval
+  $("#myCarousel").carousel({interval: 500});
+        
+  // Enable Carousel Indicators
+  $(".item1").click(function(){
+    $("#myCarousel").carousel(0);
+  });
+  $(".item2").click(function(){
+    $("#myCarousel").carousel(1);
+  });
+  $(".item3").click(function(){
+    $("#myCarousel").carousel(2);
+  });
+  $(".item4").click(function(){
+    $("#myCarousel").carousel(3);
+  });
+    
+  // Enable Carousel Controls
+  $(".carousel-control-prev").click(function(){
+    $("#myCarousel").carousel("prev");
+  });
+  $(".carousel-control-next").click(function(){
+    $("#myCarousel").carousel("next");
+  });
+});
+</script>
+
 
 </body>
 
