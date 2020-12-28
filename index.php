@@ -167,45 +167,47 @@
 
 <br>
 
-<div class="card-deck">
-  <div class="card">
-    <img class="card-img-top" src="R1.png" alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">python</h5>
-      <p class="card-text">COMPUTER PROGRAMMING <br>DATA STRUCTURE AND ALGORITHM<br>DATA SCIENCE TOOLBOX<br>BIG DATA PROCESSING</p>
-      
+<div class="container">
+  <div class="card-deck">
+    <div class="card">
+      <img class="card-img-top" src="R1.png" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">python</h5>
+        <p class="card-text">COMPUTER PROGRAMMING <br>DATA STRUCTURE AND ALGORITHM<br>DATA SCIENCE TOOLBOX<br>BIG DATA PROCESSING</p>
+        
+      </div>
     </div>
-  </div>
 
-  <div class="card">
-    <img class="card-img-top" src="R2.png" alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">R</h5>
-      <p class="card-text">STATISTICS FOR DATA SCIENCE<br>FOUNDATION OF DATA SCIENCE<br>DATA SCIENCE TOOLBOX<br>GETTING AND CLEANING DATA</p>
-      
+    <div class="card">
+      <img class="card-img-top" src="R2.png" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">R</h5>
+        <p class="card-text">STATISTICS FOR DATA SCIENCE<br>FOUNDATION OF DATA SCIENCE<br>DATA SCIENCE TOOLBOX<br>GETTING AND CLEANING DATA</p>
+        
+      </div>
     </div>
-  </div>
 
-  <div class="card">
-    <img class="card-img-top" src="R3.png" alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">SQL</h5>
-      <p class="card-text">DATABASE SYSTEMS <br>DATA SCIENCE TOOLBOX<br><br><br></p>
-      
+    <div class="card">
+      <img class="card-img-top" src="R3.png" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">SQL</h5>
+        <p class="card-text">DATABASE SYSTEMS <br>DATA SCIENCE TOOLBOX<br><br><br></p>
+        
+      </div>
     </div>
-  </div>
 
-  <div class="card">
-    <img class="card-img-top" src="R4.png" alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">HTML CSS JS BOOTSTRAP</h5>
-      <p class="card-text">WEB TECHNOLOGY<br><br><br><br></p>
-      
+    <div class="card">
+      <img class="card-img-top" src="R4.png" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">HTML CSS JS BOOTSTRAP</h5>
+        <p class="card-text">WEB TECHNOLOGY<br><br><br><br></p>
+        
+      </div>
     </div>
-  </div>
 
 
-</div>   
+  </div>   
+</div>
 
 <br>
 
