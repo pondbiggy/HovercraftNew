@@ -105,12 +105,11 @@
         </div>
     </header>
 
-
+     <h2>Members</h2>
     <div class="container" style="margin-top:30px">
   <div class="row">
     <div class="col-sm-6">
-      <h2>Card Image</h2>
-            <p>Image at the top (card-img-top):</p>
+      
             <div class="card" style="width:300px">
                 <img class="card-img-top" src="p11.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
@@ -119,8 +118,7 @@
                 <a href="#" class="btn btn-primary">See Profile</a>
                 </div>
             </div>
-      <h2>Card Image</h2>
-            <p>Image at the top (card-img-top):</p>
+      
             <div class="card" style="width:300px">
                 <img class="card-img-top" src="p33.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
@@ -132,8 +130,7 @@
       
     </div>
     <div class="col-sm-6">
-      <h2>Card Image</h2>
-            <p>Image at the top (card-img-top):</p>
+      
             <div class="card" style="width:300px">
                 <img class="card-img-top" src="p22.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
@@ -142,8 +139,7 @@
                 <a href="#" class="btn btn-primary">See Profile</a>
                 </div>
             </div>
-      <h2>Card Image</h2>
-            <p>Image at the top (card-img-top):</p>
+      
             <div class="card" style="width:300px">
                 <img class="card-img-top" src="p44.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
