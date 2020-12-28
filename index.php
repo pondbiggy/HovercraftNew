@@ -170,7 +170,7 @@
     <img class="card-img-top" src="https://img.utdstc.com/icon/c6f/36f/c6f36ff0735c528043bc1a3264f6ff828b2ed29f69e25ccdd78b8006133bcc7f:200" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">python</h5>
-      <p class="card-text">COMPUTER PROGRAMMING FOR DATA SCIENTISTS<br>DATA STRUCTURE AND ALGORITHM<br>DATA SCIENCE TOOLBOX<br>	INTRODUCTION TO BIG DATA PROCESSING</p>
+      <p class="card-text">COMPUTER PROGRAMMING <br>DATA STRUCTURE AND ALGORITHM<br>DATA SCIENCE TOOLBOX<br>BIG DATA PROCESSING</p>
       
     </div>
   </div>
@@ -188,16 +188,16 @@
     <img class="card-img-top" src="https://www.freeiconspng.com/img/11368" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">SQL</h5>
-      <p class="card-text">DATABASE SYSTEMS FOR DATA SCIENCE<br>DATA SCIENCE TOOLBOX</p>
+      <p class="card-text">DATABASE SYSTEMS <br>DATA SCIENCE TOOLBOX<br><br></p>
       
     </div>
   </div>
 
   <div class="card">
-    <img class="card-img-top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="Card image cap">
+    <img class="card-img-top" src="" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">HTML</h5>
-      <p class="card-text">WEB TECHNOLOGY</p>
+      <h5 class="card-title">HTML CSS JS BOOTSTRAP</h5>
+      <p class="card-text">WEB TECHNOLOGY<br><br><br></p>
       
     </div>
   </div>
