@@ -318,11 +318,7 @@
      <span><a data-toggle="tooltip" title="Follow on WebTechnology_Group" href="https://www.facebook.com/groups/2097980677004926"><i class="fab fa-facebook-square" style="color:rgb(0, 132, 255);font-size:72px"></i></a></span> 
     
  </p>
-  <script>
-    $(document).ready(function(){
-      $('[data-toggle="tooltip"]').tooltip();   
-    });
-  </script>
+  
     <p class="float-right">
         <a href="#"><img src="up.png" alt="ball" width="50" height="50"></a>
     </p>
@@ -330,7 +326,11 @@
         
 
 </footer>
-
+<script>
+    $(document).ready(function(){
+      $('[data-toggle="tooltip"]').tooltip();   
+    });
+  </script>
 </body>
 
 </html>
