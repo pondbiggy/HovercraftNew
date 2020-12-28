@@ -156,7 +156,7 @@
 
 <div class="card-deck">
   <div class="card">
-    <img class="card-img-top" src="p11jpg" alt="Card image cap">
+    <img class="card-img-top" src="p11.jpg" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Jiraphat Thongyoo</h5>
       <p class="card-text">620710040<br>Data Science<br>SU76 SC48 DS2</p>
@@ -183,7 +183,7 @@
   </div>
 
   <div class="card">
-    <img class="card-img-top" src="..." alt="Card image cap">
+    <img class="card-img-top" src="p44.jpg" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Worapon Boontawee</h5>
       <p class="card-text">620710742<br>Data Science<br>SU76 SC48 DS2</p>
