@@ -184,7 +184,7 @@
   </div>
 
   <div class="card">
-    <img class="card-img-top" src="p44.jpg" alt="Card image cap">
+    <img class="card-img-top" src="v2.mov" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Worapon Boontawee</h5>
       <p class="card-text">620710742<br>Data Science<br>SU76 SC48 DS2</p>
@@ -219,7 +219,7 @@
       <img src="p22.jpg" alt="bee" width="1100" height="500">
     </div>
     <div class="carousel-item">
-      <img src="p33.jpg" alt="jib" width="1100" height="500">
+      <img src="v1.mov" alt="jib" width="1100" height="500">
     </div>
     <div class="carousel-item">
       <img src="p44.jpg" alt="phai" width="1100" height="500">
@@ -269,7 +269,7 @@ $(document).ready(function(){
 <footer class="text-muted">
       <div class="container">
         <p class="float-right">
-          <a href="#"><i class="material-icons" style="font-size:36px"></i></a>
+          <a href="#"><img src="up.png" alt="ball" width="10" height="10"></a>
         </p>
         
       </div>
