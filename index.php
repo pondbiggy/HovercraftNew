@@ -126,7 +126,7 @@
                 <div class="card-body">
                 <h4 class="card-title">Jiraphat Thongyoo</h4>
                 <p class="card-text">620710040<br>Data Science<br>SU76 SC48 DS2</p>
-                <a href="b.html" class="btn btn-primary">See Profile</a>
+                <a href="ball1.html" class="btn btn-primary">See Profile</a>
                 </div>
             </div>
       
@@ -167,7 +167,7 @@
 
 <div class="card-deck">
   <div class="card">
-    <img class="card-img-top" src="https://img.utdstc.com/icon/c6f/36f/c6f36ff0735c528043bc1a3264f6ff828b2ed29f69e25ccdd78b8006133bcc7f:200" alt="Card image cap">
+    <img class="card-img-top" src="R1.png" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">python</h5>
       <p class="card-text">COMPUTER PROGRAMMING <br>DATA STRUCTURE AND ALGORITHM<br>DATA SCIENCE TOOLBOX<br>BIG DATA PROCESSING</p>
@@ -176,7 +176,7 @@
   </div>
 
   <div class="card">
-    <img class="card-img-top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="Card image cap">
+    <img class="card-img-top" src="R2.png" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">R</h5>
       <p class="card-text">STATISTICS FOR DATA SCIENCE<br>FOUNDATION OF DATA SCIENCE<br>DATA SCIENCE TOOLBOX<br>GETTING AND CLEANING DATA</p>
@@ -185,7 +185,7 @@
   </div>
 
   <div class="card">
-    <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF8V75JvZjil2jMWkGP70So3pdTI5L3ntEHg&usqp=CAU" alt="Card image cap">
+    <img class="card-img-top" src="R3.png" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">SQL</h5>
       <p class="card-text">DATABASE SYSTEMS <br>DATA SCIENCE TOOLBOX<br><br></p>
@@ -194,7 +194,7 @@
   </div>
 
   <div class="card">
-    <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP8r7Z1GLe_lKi0f_Lf2OC8uJU11-GjGrljg&usqp=CAU" alt="Card image cap">
+    <img class="card-img-top" src="R4.png" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">HTML CSS JS BOOTSTRAP</h5>
       <p class="card-text">WEB TECHNOLOGY<br><br><br></p>
@@ -325,7 +325,7 @@ $(document).ready(function(){
        <p>
             <span><a data-toggle="tooltip" title="Follow on CPSU_Group" href="https://www.facebook.com/groups/CPSUTH"><i class="fab fa-facebook-square" style="color:rgb(255, 255, 255);font-size:72px"></i></a></span> 
             <span><a data-toggle="tooltip" title="Follow on DSSCSU_Group" href="https://www.facebook.com/groups/DSSCSU"><i class="fab fa-facebook-square" style="color:rgb(204, 230, 255);font-size:72px"></i></a></span> 
-            <span><a data-toggle="tooltip" title="Follow on WebTechnology_Group" href="https://www.facebook.com/groups/2097980677004926"><i class="fab fa-facebook-square" style="color:rgb(153, 204, 255);font-size:72px"></i></a></span> 
+            <span><a data-toggle="tooltip" title="Follow on WebTechnology_Group" href="https://www.facebook.com/groups/2097980677004926"><i class="fab fa-facebook-square" style="color:rgb(0, 132, 255);font-size:72px"></i></a></span> 
            
         </p>
 
