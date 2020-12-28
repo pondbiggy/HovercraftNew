@@ -30,9 +30,12 @@
 
 
 <nav class="navbar navbar-expand-md bg-dark navbar-dark fixed-top">
-
+   <!-- Brand/logo -->
+   <a class="navbar-brand" href="#">
+    <img src="ho.png" alt="logo" style="width:40px;">
+  </a>
   <!-- Brand -->
-  <a class="navbar-brand" href="#">Navbar</a>
+  <a class="navbar-brand" href="#">Hovercraft</a>
 
   <!-- Toggler/collapsibe Button -->
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -43,14 +46,26 @@
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
+        <a class="nav-link" href="#">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
+        <a class="nav-link" href="#">About</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
+        <a class="nav-link" href="#">Contact</a>
       </li>
+      <!-- Dropdown -->
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+        Members
+      </a>
+      <div class="dropdown-menu">
+        <a class="dropdown-item" href="#">Ball</a>
+        <a class="dropdown-item" href="#">Bee</a>
+        <a class="dropdown-item" href="#">Jib</a>
+        <a class="dropdown-item" href="#">Phai</a>
+      </div>
+    </li>
     </ul>
   </div>
 </nav>
