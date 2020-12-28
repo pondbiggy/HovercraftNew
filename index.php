@@ -269,7 +269,7 @@ $(document).ready(function(){
 <footer class="text-muted">
       <div class="container">
         <p class="float-right">
-          <a href="#"><img src="up.png" alt="ball" width="100" height="100"></a>
+          <a href="#"><img src="up.png" alt="ball" width="50" height="50"></a>
         </p>
         
       </div>
