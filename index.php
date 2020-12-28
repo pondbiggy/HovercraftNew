@@ -185,7 +185,7 @@
   </div>
 
   <div class="card">
-    <img class="card-img-top" src="https://www.freeiconspng.com/img/11368" alt="Card image cap">
+    <img class="card-img-top" <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF8V75JvZjil2jMWkGP70So3pdTI5L3ntEHg&usqp=CAU">Size Icon Sql Server</a> alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">SQL</h5>
       <p class="card-text">DATABASE SYSTEMS <br>DATA SCIENCE TOOLBOX<br><br></p>
@@ -194,7 +194,7 @@
   </div>
 
   <div class="card">
-    <img class="card-img-top" src="" alt="Card image cap">
+    <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP8r7Z1GLe_lKi0f_Lf2OC8uJU11-GjGrljg&usqp=CAU" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">HTML CSS JS BOOTSTRAP</h5>
       <p class="card-text">WEB TECHNOLOGY<br><br><br></p>
