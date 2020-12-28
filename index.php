@@ -17,6 +17,24 @@
     width: 30%;
     height: 30%;
   }
+    body{
+           text-align: center ;
+           
+        }
+    .card {
+             margin: auto;
+            }
+    .btn btn-primary{
+             margin: auto;
+             text-align: center ;
+            }
+    .carousel slide{
+             margin: auto;
+             text-align: center ;
+
+            }
+        
+
   </style>
 
 
@@ -124,16 +142,18 @@
   <!-- The slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="p11.jpg" alt="Los Angeles" width="1100" height="500">
+      <img src="p11.jpg" alt="ball" width="1100" height="500">
     </div>
     <div class="carousel-item">
-      <img src="p22.jpg" alt="Chicago" width="1100" height="500">
+      <img src="p22.jpg" alt="bee" width="1100" height="500">
     </div>
     <div class="carousel-item">
-      <img src="p33.jpg" alt="New York" width="1100" height="500">
+      <img src="p33.jpg" alt="jib" width="1100" height="500">
     </div>
-    <img src="p44.jpg" alt="New York" width="1100" height="500">
+    <div class="carousel-item">
+      <img src="p44.jpg" alt="phai" width="1100" height="500">
     </div>
+    
   </div>
   
   <!-- Left and right controls -->
