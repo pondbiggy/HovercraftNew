@@ -153,8 +153,46 @@
     </div>
   </div>
 </div>
-            
-       
+
+<div class="card-deck">
+  <div class="card">
+    <img class="card-img-top" src="p11jpg" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">Jiraphat Thongyoo</h5>
+      <p class="card-text">620710040<br>Data Science<br>SU76 SC48 DS2</p>
+      
+    </div>
+  </div>
+
+  <div class="card">
+    <img class="card-img-top" src="p22.jpg" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">Phanthipha Makchiao</h5>
+      <p class="card-text">620710161<br>Data Science<br>SU76 SC48 DS2</p>
+      
+    </div>
+  </div>
+
+  <div class="card">
+    <img class="card-img-top" src="p33.jpg" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">Apatsara Piromto</h5>
+      <p class="card-text">620710162<br>Data Science<br>SU76 SC48 DS2</p>
+      
+    </div>
+  </div>
+
+  <div class="card">
+    <img class="card-img-top" src="..." alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">Worapon Boontawee</h5>
+      <p class="card-text">620710742<br>Data Science<br>SU76 SC48 DS2</p>
+      
+    </div>
+  </div>
+
+
+</div>   
 
 
   
