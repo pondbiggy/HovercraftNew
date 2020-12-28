@@ -54,7 +54,7 @@
     <img src="ho.png" alt="logo" style="width:40px;">
   </a>
   <!-- Brand -->
-  <a class="navbar-brand" href="#"><strong>Hovercraft</strong></a>
+  <a class="navbar-brand" href="https://hovercraft4.herokuapp.com/"><strong>Hovercraft</strong></a>
 
   <!-- Toggler/collapsibe Button -->
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -68,12 +68,17 @@
         <a class="nav-link" href="#">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">About</a>
-      </li>
-      <li class="nav-item">
         <a class="nav-link" href="#">Contact</a>
       </li>
       <!-- Dropdown -->
+      <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">About</a>
+      <div class="dropdown-menu">
+        <a class="dropdown-item" href="https://www.su.ac.th/th/index.php">Silpakorn University</a>
+        <a class="dropdown-item" href="http://www.sc.su.ac.th/index.php">Science, Silpakorn</a>
+        <a class="dropdown-item" href="https://www.cp.su.ac.th/curricula/Bachelor-of-Science-Program-in-Data-Science">DataScience</a>
+      </div>
+    </li>
     <li class="nav-item dropdown">
       <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
         Members
@@ -125,7 +130,7 @@
                 <div class="card-body">
                 <h4 class="card-title">Apatsara Piromto</h4>
                 <p class="card-text">620710162<br>Data Science<br>SU76 SC48 DS2</p>
-                <a href="jin.html" class="btn btn-primary">See Profile</a>
+                <a href="jib.html" class="btn btn-primary">See Profile</a>
                 </div>
             </div>
       
@@ -222,7 +227,7 @@
       <img src="p33.jpg" alt="jib" width="1100" height="500">
     </div>
     <div class="carousel-item">
-      <img src="p44.jpg" alt="phai" width="1100" height="500">
+      <img src="https://www.facebook.com/100002439788465/videos/3627996367291654" alt="phai" width="1100" height="500">
     </div>
     
   </div>
