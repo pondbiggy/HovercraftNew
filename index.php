@@ -299,6 +299,7 @@
   </div>
 </div>
 
+<br>
 
 
 <div id = "onfoot" class="container--fluid" >
@@ -307,14 +308,14 @@
 
   <p>
      <span><a data-toggle="tooltip" title="Follow on CPSU_Group" href="https://www.facebook.com/groups/CPSUTH"><i class="fab fa-facebook-square" style="color:rgb(255, 255, 255);font-size:72px"></i></a></span> 
-     <span><a data-toggle="tooltip" title="Follow on DSSCSU_Group" href="https://www.facebook.com/groups/DSSCSU"><i class="fab fa-facebook-square" style="color:rgb(179, 230, 255);font-size:72px"></i></a></span> 
+     <span><a data-toggle="tooltip" title="Follow on DSSCSU_Group" href="https://www.facebook.com/groups/DSSCSU"><i class="fab fa-facebook-square" style="color:rgb(128, 223, 255);font-size:72px"></i></a></span> 
      <span><a data-toggle="tooltip" title="Follow on WebTechnology_Group" href="https://www.facebook.com/groups/2097980677004926"><i class="fab fa-facebook-square" style="color:rgb(0, 132, 255);font-size:72px"></i></a></span> 
     
  </p>
-  
-    <p class="float-right">
+ <p class="float-right">
         <a href="#"><img src="up.png" alt="ball" width="50" height="50"></a>
     </p>
+    
  
         
 </div>
