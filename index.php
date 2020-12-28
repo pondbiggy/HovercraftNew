@@ -37,7 +37,7 @@
     .Section Contact lazy-bg {
              text-align:center;
              margin: auto;
-             margin-top: 60px;
+             margin-top: 200px;
         
 
   </style>
@@ -80,6 +80,7 @@
       <div class="dropdown-menu">
         <a class="dropdown-item" href="https://www.su.ac.th/th/index.php">Silpakorn University</a>
         <a class="dropdown-item" href="http://www.sc.su.ac.th/index.php">Science, Silpakorn</a>
+        <a class="dropdown-item" href="https://www.cp.su.ac.th/">Department of Computing</a>
         <a class="dropdown-item" href="https://www.cp.su.ac.th/curricula/Bachelor-of-Science-Program-in-Data-Science">DataScience</a>
       </div>
     </li>
@@ -286,14 +287,47 @@ $(document).ready(function(){
                 </div>
             </div>
 
-            <div class="Contact-Row">
-                <div class="Contact-Column-Social">
-                <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FScienceSilpakornUniversity&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-                </div>
-            </div>
+
+
+
+            
+
+
+
+
+
+
         </div>   
 </div>  
         
+<div class="container" style="margin-top:30px">
+  <div class="row">
+    <div class="col-sm-4">
+      
+        <div class="Contact-Row">
+                <div class="Contact-Column-Social">
+                    <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FScienceSilpakornUniversity&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+                </div>
+        </div> 
+      
+    </div>
+    <div class="col-sm-4">
+                <div class="Contact-Column-Social">
+                    <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fcpsilpakorn&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+                </div> 
+      
+      
+    </div>
+    <div class="col-sm-4">
+            <div class="Contact-Column-Social">
+                <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FDSSCSU%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> 
+            </div> 
+      
+    </div>
+  </div>
+</div>
+
+
 
 <footer class="text-muted">
       <div class="container">
