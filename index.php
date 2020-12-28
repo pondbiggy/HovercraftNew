@@ -165,6 +165,8 @@
   </div>
 </div>
 
+<br>
+
 <div class="card-deck">
   <div class="card">
     <img class="card-img-top" src="R1.png" alt="Card image cap">
