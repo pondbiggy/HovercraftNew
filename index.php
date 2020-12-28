@@ -9,6 +9,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="style.css">
     <style>
   /* Make the image fully responsive */
   .carousel-inner img {
@@ -25,6 +26,33 @@
 
 
 <body>
+
+<header class="header">
+        <div class="container">
+            <div class="header_area">
+    
+                <h1>Welcome to <br>Hovercraft Group</h1>
+                <h2>DS-WebTechnology 63</h2>
+            </div>
+        </div>
+    </header>
+
+<div class="container">
+  <h2>Card Image</h2>
+  <p>Image at the top (card-img-top):</p>
+  <div class="card" style="width:400px">
+    <img class="card-img-top" src="img_avatar1.png" alt="Card image" style="width:100%">
+    <div class="card-body">
+      <h4 class="card-title">John Doe</h4>
+      <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
+      <a href="#" class="btn btn-primary">See Profile</a>
+    </div>
+  </div>
+  <br>
+
+<div class="container">
+  <h1>My First Bootstrap Page</h1>
+
     <div id="demo" class="carousel slide" data-ride="carousel">
         <ul class="carousel-indicators">
             <li data-target="#demo" data-slide-to="0" class="active"></li>
@@ -68,7 +96,7 @@
         <span class="carousel-control-next-icon"></span>
     </a>
     </div>
-
+</div>
 
 </body>
 
