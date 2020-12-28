@@ -205,47 +205,51 @@
 
 </div>   
 
+<br>
 
-<div id="demo" class="carousel slide" data-ride="carousel">
+<div class="container p-3 my-3 bg-dark text-white"></div>
 
-<!-- Indicators -->
-<ul class="carousel-indicators">
-  <li data-target="#demo" data-slide-to="0" class="active"></li>
-  <li data-target="#demo" data-slide-to="1"></li>
-  <li data-target="#demo" data-slide-to="2"></li>
-  <li data-target="#demo" data-slide-to="3"></li>
-  <li data-target="#demo" data-slide-to="4"></li>
-</ul>
+    <div id="demo" class="carousel slide" data-ride="carousel">
 
-<!-- The slideshow -->
-<div class="carousel-inner">
-  <div class="carousel-item active">
-    <img src="s1.jpg" alt="ball" width="600" height="500">
-  </div>
-  <div class="carousel-item">
-    <img src="s2.jpg" alt="bee" width="600" height="500">
-  </div>
-  <div class="carousel-item">
-    <img src="s3.jpg" alt="jib" width="600" height="500">
-  </div>
-  <div class="carousel-item">
-    <img src="s4.jpg" alt="phai" width="600" height="500">
-  </div>
-  <div class="carousel-item">
-    <img src="s5.jpg" alt="phai" width="600" height="500">
-  </div>
+        <!-- Indicators -->
+        <ul class="carousel-indicators">
+            <li data-target="#demo" data-slide-to="0" class="active"></li>
+            <li data-target="#demo" data-slide-to="1"></li>
+            <li data-target="#demo" data-slide-to="2"></li>
+            <li data-target="#demo" data-slide-to="3"></li>
+            <li data-target="#demo" data-slide-to="4"></li>
+        </ul>
+
+        <!-- The slideshow -->
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="s1.jpg" alt="ball" width="600" height="500">
+            </div>
+            <div class="carousel-item">
+                <img src="s2.jpg" alt="bee" width="600" height="500">
+            </div>
+            <div class="carousel-item">
+                <img src="s3.jpg" alt="jib" width="600" height="500">
+            </div>
+            <div class="carousel-item">
+                <img src="s4.jpg" alt="phai" width="600" height="500">
+            </div>
+            <div class="carousel-item">
+                <img src="s5.jpg" alt="phai" width="600" height="500">
+            </div>
+        </div>
+
+        <!-- Left and right controls -->
+        <a class="carousel-control-prev" href="#demo" data-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+        </a>
+        <a class="carousel-control-next" href="#demo" data-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </a>
+    </div>
 </div>
 
-<!-- Left and right controls -->
-<a class="carousel-control-prev" href="#demo" data-slide="prev">
-  <span class="carousel-control-prev-icon"></span>
-</a>
-<a class="carousel-control-next" href="#demo" data-slide="next">
-  <span class="carousel-control-next-icon"></span>
-</a>
-</div>
-
-
+<br>
 <!-- Contact -->
 <div id="contact" class="Section Contact lazy-bg">
         <div class="Contact-Content" id="contact-section">
