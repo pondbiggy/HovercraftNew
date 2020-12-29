@@ -104,7 +104,6 @@
         </div>
       </li>
       <li class="nav-item dropdown">
-        <br>
           <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
           Members
           </a>
@@ -146,7 +145,7 @@
             </div>
         </div>
     </header>
-
+       <br>
      <h2>Members</h2>
     <div class="container" style="margin-top:30px">
   <div class="row">
