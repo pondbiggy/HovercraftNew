@@ -58,52 +58,53 @@
 
 
 <nav class="navbar navbar-expand-md bg-dark navbar-dark fixed-top">
-   <!-- Brand/logo -->
-   <a class="navbar-brand" href="#">
-    <img src="ho.png" alt="logo" style="width:40px;">
-  </a>
-  <!-- Brand -->
-  <a class="navbar-brand" href="https://hovercraft4.herokuapp.com/"><strong>Hovercraft</strong></a>
+    <!-- Brand/logo -->
+    <a class="navbar-brand" href="#">
+      <img src="ho.png" alt="logo" style="width:40px;">
+    </a>
+  <div class="borderLeftRight">
+    <!-- Brand -->
+    <a class="navbar-brand" href="https://hovercraft4.herokuapp.com/"><strong>Hovercraft</strong></a>
 
-  <!-- Toggler/collapsibe Button -->
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-    <span class="navbar-toggler-icon"></span>
-  </button> 
+    <!-- Toggler/collapsibe Button -->
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+      <span class="navbar-toggler-icon"></span>
+    </button> 
 
-  <!-- Navbar links -->
-  <div class="collapse navbar-collapse" id="collapsibleNavbar">
-    <ul class="navbar-nav">
-      <li class="nav-item">
-        <a class="nav-link" href="#">Home</a>
+    <!-- Navbar links -->
+    <div class="collapse navbar-collapse" id="collapsibleNavbar">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#contact">Contact</a>
+        </li>
+        <!-- Dropdown -->
+        <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">About</a>
+        <div class="dropdown-menu">
+          <a class="dropdown-item" href="https://www.su.ac.th/th/index.php">Silpakorn University</a>
+          <a class="dropdown-item" href="http://www.sc.su.ac.th/index.php">Science, Silpakorn</a>
+          <a class="dropdown-item" href="https://www.cp.su.ac.th/">Department of Computing</a>
+          <a class="dropdown-item" href="https://www.cp.su.ac.th/curricula/Bachelor-of-Science-Program-in-Data-Science">DataScience</a>
+        </div>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#contact">Contact</a>
-      </li>
-      <!-- Dropdown -->
       <li class="nav-item dropdown">
-      <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">About</a>
-      <div class="dropdown-menu">
-        <a class="dropdown-item" href="https://www.su.ac.th/th/index.php">Silpakorn University</a>
-        <a class="dropdown-item" href="http://www.sc.su.ac.th/index.php">Science, Silpakorn</a>
-        <a class="dropdown-item" href="https://www.cp.su.ac.th/">Department of Computing</a>
-        <a class="dropdown-item" href="https://www.cp.su.ac.th/curricula/Bachelor-of-Science-Program-in-Data-Science">DataScience</a>
-      </div>
-    </li>
-    <li class="nav-item dropdown">
-      <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-        Members
-      </a>
-      <div class="dropdown-menu">
-        <a class="dropdown-item" href="ball1.html">Ball</a>
-        <a class="dropdown-item" href="b.html">Bee</a>
-        <a class="dropdown-item" href="jib.html">Jib</a>
-        <a class="dropdown-item" href="phaii.html">Phai</a>
-      </div>
-    </li>
-    </ul>
+        <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+          Members
+        </a>
+        <div class="dropdown-menu">
+          <a class="dropdown-item" href="ball1.html">Ball</a>
+          <a class="dropdown-item" href="b.html">Bee</a>
+          <a class="dropdown-item" href="jib.html">Jib</a>
+          <a class="dropdown-item" href="phaii.html">Phai</a>
+        </div>
+      </li>
+      </ul>
     
   
-</div>
+    </div>
 
   </div>
   
