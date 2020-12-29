@@ -152,7 +152,7 @@
     <div class="col-sm-6">
       
             <div class="card" style="width:300px">
-                <img class="card-img-top" src="p11.jpg" alt="Card image" style="width:100%">
+                <img class="card-img-top" class = “img-responsive” src="p11.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
                 <h4 class="card-title">Jiraphat Thongyoo</h4>
                 <p class="card-text">620710040<br>Data Science<br>SU76 SC48 DS2</p>
@@ -161,7 +161,7 @@
             </div>
       
             <div class="card" style="width:300px">
-                <img class="card-img-top" src="p33.jpg" alt="Card image" style="width:100%">
+                <img class="card-img-top" class = “img-responsive” src="p33.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
                 <h4 class="card-title">Apatsara Piromto</h4>
                 <p class="card-text">620710162<br>Data Science<br>SU76 SC48 DS2</p>
