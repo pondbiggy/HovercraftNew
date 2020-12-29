@@ -65,6 +65,7 @@
   <div class="borderLeftRight">
     <!-- Brand -->
     <a class="navbar-brand" href="https://hovercraft4.herokuapp.com/"><strong>Hovercraft</strong></a>
+  </div>
 
     <!-- Toggler/collapsibe Button -->
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -75,30 +76,52 @@
     <div class="collapse navbar-collapse" id="collapsibleNavbar">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="#">Home</a>
+          <div class="borderLeftRight">
+            <a class="nav-link" href="#">Home</a>
+          </div>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#contact">Contact</a>
+          <div class="borderLeftRight">
+            <a class="nav-link" href="#contact">Contact</a>
+          </div>
         </li>
         <!-- Dropdown -->
         <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">About</a>
         <div class="dropdown-menu">
-          <a class="dropdown-item" href="https://www.su.ac.th/th/index.php">Silpakorn University</a>
-          <a class="dropdown-item" href="http://www.sc.su.ac.th/index.php">Science, Silpakorn</a>
-          <a class="dropdown-item" href="https://www.cp.su.ac.th/">Department of Computing</a>
-          <a class="dropdown-item" href="https://www.cp.su.ac.th/curricula/Bachelor-of-Science-Program-in-Data-Science">DataScience</a>
+          <div class="borderLeftRight">
+            <a class="dropdown-item" href="https://www.su.ac.th/th/index.php">Silpakorn University</a>
+          </div>
+          <div class="borderLeftRight">
+            <a class="dropdown-item" href="http://www.sc.su.ac.th/index.php">Science, Silpakorn</a>
+          </div>
+          <div class="borderLeftRight">
+            <a class="dropdown-item" href="https://www.cp.su.ac.th/">Department of Computing</a>
+          </div>
+          <div class="borderLeftRight">
+            <a class="dropdown-item" href="https://www.cp.su.ac.th/curricula/Bachelor-of-Science-Program-in-Data-Science">DataScience</a>
+          </div>
         </div>
       </li>
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+        <div class="borderLeftRight">
+          <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
           Members
-        </a>
+          </a>
+          </div>
         <div class="dropdown-menu">
-          <a class="dropdown-item" href="ball1.html">Ball</a>
-          <a class="dropdown-item" href="b.html">Bee</a>
-          <a class="dropdown-item" href="jib.html">Jib</a>
-          <a class="dropdown-item" href="phaii.html">Phai</a>
+          <div class="borderLeftRight">
+            <a class="dropdown-item" href="ball1.html">Ball</a>
+          </div>
+          <div class="borderLeftRight">
+            <a class="dropdown-item" href="b.html">Bee</a>
+          </div>
+          <div class="borderLeftRight">
+            <a class="dropdown-item" href="jib.html">Jib</a>
+          </div>
+          <div class="borderLeftRight">
+            <a class="dropdown-item" href="phaii.html">Phai</a>
+          </div>
         </div>
       </li>
       </ul>
@@ -106,7 +129,7 @@
   
     </div>
 
-  </div>
+  
   
 </nav>
 
