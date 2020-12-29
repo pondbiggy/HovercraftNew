@@ -104,11 +104,11 @@
         </div>
       </li>
       <li class="nav-item dropdown">
-        <div class="borderLeftRight">
+        
           <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
           Members
           </a>
-          </div>
+          
         <div class="dropdown-menu">
           <div class="borderLeftRight">
             <a class="dropdown-item" href="ball1.html">Ball</a>
