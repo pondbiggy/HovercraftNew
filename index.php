@@ -113,12 +113,15 @@
           <div class="borderLeftRight">
             <a class="dropdown-item" href="ball1.html">Ball</a>
           </div>
+          <br>
           <div class="borderLeftRight">
             <a class="dropdown-item" href="b.html">Bee</a>
           </div>
+          <br>
           <div class="borderLeftRight">
             <a class="dropdown-item" href="jib.html">Jib</a>
           </div>
+          <br>
           <div class="borderLeftRight">
             <a class="dropdown-item" href="phaii.html">Phai</a>
           </div>
