@@ -182,9 +182,9 @@
 </header>
        <br>
 <h2>Members</h2>
-<div class="container-fluid" style="margin-top:30px">
+<div class="container" style="margin-top:30px">
   <div class="row">
-    <div class="col-s-3 col-3">
+    <div class="col-s-6 col-6">
       
             <div class="card" style="width:300px">
                 <img  src="p11.jpg" alt="Card image" style="width:100%">
@@ -194,9 +194,7 @@
                 <a href="ball1.html" class="btn btn-primary">See Profile</a>
                 </div>
             </div>
-    </div>
-    <div class="col-s-3 col-3">
-
+      
             <div class="card" style="width:300px">
                 <img  src="p33.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
@@ -205,10 +203,10 @@
                 <a href="jib.html" class="btn btn-primary">See Profile</a>
                 </div>
             </div>
-    </div>
+      
     
-    
-    <div class="col-s-3 col-3">
+    <div class="col-s-6 col-6">
+      
             <div class="card" style="width:300px">
                 <img src="p22.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
@@ -217,8 +215,7 @@
                 <a href="b.html" class="btn btn-primary">See Profile</a>
                 </div>
             </div>
-    </div>
-    <div class="col-s-3 col-3">
+      
             <div class="card" style="width:300px">
                 <img  src="p44.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
@@ -227,9 +224,9 @@
                 <a href="phaii.html" class="btn btn-primary">See Profile</a>
                 </div>
             </div>
-    </div>
       
-   
+      
+    </div>
   </div>
 </div>
 
