@@ -230,42 +230,7 @@
   </div>
 </div>
 
-<br>
 
-<div class="container-fluid">
-  <div class="card-deck">
-    <div class="card">
-      
-      
-    </div>
-
-    <div class="card">
-      <img class="card-img-top" src="R2.png" alt="Card image cap">
-      <div class="card-body">
-        <h5 class="card-title">R</h5>
-        <p class="card-text">STATISTICS FOR DATA SCIENCE<br>FOUNDATION OF DATA SCIENCE<br>DATA SCIENCE TOOLBOX<br>GETTING AND CLEANING DATA</p>
-        
-      </div>
-    </div>
-
-    <div class="card">
-      <img class="card-img-top" src="R2.png" alt="Card image cap">
-      <div class="card-body">
-        <h5 class="card-title">R</h5>
-        <p class="card-text">STATISTICS FOR DATA SCIENCE<br>FOUNDATION OF DATA SCIENCE<br>DATA SCIENCE TOOLBOX<br>GETTING AND CLEANING DATA</p>
-        
-      </div>
-    </div>
-    <div class="card">
-      
-      
-    </div>
-
-
-
-
-  </div>   
-</div>
 
 
 <br>
