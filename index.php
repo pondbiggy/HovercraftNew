@@ -173,11 +173,11 @@
 
 <header class="header">
         <div class="container">
-            <div class="header_area">
+            
     
-                <h1>Welcome to <br>Hovercraft Group</h1>
-                <h2>DS-WebTechnology 63</h2>
-            </div>
+            <h1>Welcome to <br>Hovercraft Group</h1>
+            <h2>DS-WebTechnology 63</h2>
+            
         </div>
     </header>
        <br>

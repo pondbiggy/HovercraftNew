@@ -20,24 +20,7 @@ body {
     height: auto;
 }
 
-.header_area {
-    padding-top: 150px;
-    text-align: center;
-    color: #fff;
-    margin: 0 auto;
-    width: 660px;
-}
-.header_area h1 {
-    margin: 0;
-    font-size: 60px;
-    font-weight: normal;
-}
-.header_area p {
-    margin: 0 auto;
-    margin-top: 15px;
-    width: 480px;
-    font-size: 16px;
-}
+
 
 .borderLeftRight {
     display: inline-block;
