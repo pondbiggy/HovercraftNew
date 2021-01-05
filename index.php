@@ -182,7 +182,7 @@
 </header>
        <br>
 <h2>Members</h2>
-<div class="container" style="margin-top:30px">
+<div class="container-fluid" style="margin-top:30px">
   <div class="row">
     <div class="col-s-3 col-3">
       
