@@ -184,7 +184,7 @@
      <h2>Members</h2>
 <div class="container" style="margin-top:30px">
   <div class="row">
-    <div class="col-s-6 col-6">
+    <div class="col-s-3 col-3">
       
             <div class="card" style="width:300px">
                 <img  class=img-fluid  src="p11.jpg" alt="Card image" style="width:100%">
@@ -195,7 +195,7 @@
                 </div>
             </div>
     </div>
-    <div class="col-s-6 col-6">
+    <div class="col-s-3 col-3">
             <div class="card" style="width:300px">
                 <img  class=img-fluid  src="p33.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
@@ -205,9 +205,8 @@
                 </div>
             </div>
     </div>
-  </div> 
-  <div class="row">
-    <div class="col-s-6 col-6">
+  
+    <div class="col-s-3 col-3">
       
             <div class="card" style="width:300px">
                 <img class=img-fluid src="p22.jpg" alt="Card image" style="width:100%">
@@ -218,7 +217,7 @@
                 </div>
             </div>
     </div>
-    <div class="col-s-6 col-6">
+    <div class="col-s-3 col-3">
             <div class="card" style="width:300px">
                 <img  class=img-fluid src="p44.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
