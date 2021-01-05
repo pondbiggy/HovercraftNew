@@ -184,7 +184,7 @@
      <h2>Members</h2>
     <div class="container" style="margin-top:30px">
   <div class="row">
-    <div class="col-sm-6">
+    <div class="col-s-6 col-6">
       
             <div class="card" style="width:300px">
                 <img  class=img-fluid  src="p11.jpg" alt="Card image" style="width:100%">
@@ -205,7 +205,7 @@
             </div>
       
     </div>
-    <div class="col-sm-6">
+    <div class="col-s-6 col-6">
       
             <div class="card" style="width:300px">
                 <img class=img-fluid src="p22.jpg" alt="Card image" style="width:100%">
@@ -334,7 +334,7 @@
         
 <div class="container-fluid" style="margin-top:30px">
   <div class="row">
-    <div class="col-sm-4">
+    <div class="col-s-4 col-4">
       
         <div class="Contact-Row">
                 <div class="Contact-Column-Social">
@@ -343,14 +343,14 @@
         </div> 
       
     </div>
-    <div class="col-sm-4">
+    <div class="col-s-4 col-4">
                 <div class="Contact-Column-Social">
                     <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fcpsilpakorn&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
                 </div> 
       
       
     </div>
-    <div class="col-sm-4">
+    <div class="col-s-4 col-4">
             <div class="Contact-Column-Social">
                 <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FDSSCSU%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> 
             </div> 
