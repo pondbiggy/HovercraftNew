@@ -235,10 +235,9 @@
 <div class="container-fluid">
   <div class="card-deck">
     <div class="card">
-      <img class="card-img-top" src="R1.png" alt="Card image cap">
+      
       <div class="card-body">
-        <h5 class="card-title">python</h5>
-        <p class="card-text">COMPUTER PROGRAMMING <br>DATA STRUCTURE AND ALGORITHM<br>DATA SCIENCE TOOLBOX<br>BIG DATA PROCESSING</p>
+       
         
       </div>
     </div>
@@ -251,19 +250,6 @@
         
       </div>
     </div>
-  </div>   
-</div>
-
-<div class="container-fluid">
-  <div class="card-deck">
-    <div class="card">
-      <img class="card-img-top" src="R1.png" alt="Card image cap">
-      <div class="card-body">
-        <h5 class="card-title">python</h5>
-        <p class="card-text">COMPUTER PROGRAMMING <br>DATA STRUCTURE AND ALGORITHM<br>DATA SCIENCE TOOLBOX<br>BIG DATA PROCESSING</p>
-        
-      </div>
-    </div>
 
     <div class="card">
       <img class="card-img-top" src="R2.png" alt="Card image cap">
@@ -273,8 +259,20 @@
         
       </div>
     </div>
+    <div class="card">
+      
+      <div class="card-body">
+        
+        
+      </div>
+    </div>
+
+
+
+
   </div>   
 </div>
+
 
 
 
