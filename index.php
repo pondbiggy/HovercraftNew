@@ -184,10 +184,10 @@
      <h2>Members</h2>
 <div class="container" style="margin-top:30px">
   <div class="row">
-    <div class="col-s-3 col-3">
+    <div class="col-s-6 col-6">
       
             <div class="card" style="width:300px">
-                <img  class=img-fluid  src="p11.jpg" alt="Card image" style="width:100%">
+                <img   src="p11.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
                 <h4 class="card-title">Jiraphat Thongyoo</h4>
                 <p class="card-text">620710040<br>Data Science<br>SU76 SC48 DS2</p>
@@ -195,9 +195,9 @@
                 </div>
             </div>
     </div>
-    <div class="col-s-3 col-3">
+    <div class="col-s-6 col-6">
             <div class="card" style="width:300px">
-                <img  class=img-fluid  src="p33.jpg" alt="Card image" style="width:100%">
+                <img   src="p33.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
                 <h4 class="card-title">Apatsara Piromto</h4>
                 <p class="card-text">620710162<br>Data Science<br>SU76 SC48 DS2</p>
@@ -205,11 +205,12 @@
                 </div>
             </div>
     </div>
-  
-    <div class="col-s-3 col-3">
+  </div> 
+  <div class="row">
+    <div class="col-s-6 col-6">
       
             <div class="card" style="width:300px">
-                <img class=img-fluid src="p22.jpg" alt="Card image" style="width:100%">
+                <img  src="p22.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
                 <h4 class="card-title">Phanthipha Makchiao</h4>
                 <p class="card-text">620710161<br>Data Science<br>SU76 SC48 DS2</p>
@@ -217,9 +218,9 @@
                 </div>
             </div>
     </div>
-    <div class="col-s-3 col-3">
+    <div class="col-s-6 col-6">
             <div class="card" style="width:300px">
-                <img  class=img-fluid src="p44.jpg" alt="Card image" style="width:100%">
+                <img   src="p44.jpg" alt="Card image" style="width:100%">
                 <div class="card-body">
                 <h4 class="card-title">Worapon Boontawee</h4>
                 <p class="card-text">620710742<br>Data Science<br>SU76 SC48 DS2</p>
